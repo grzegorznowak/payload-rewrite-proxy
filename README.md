@@ -8,7 +8,7 @@ given a template like
 {
 	"param1" => "::param1::"
 }
-``
+```
 
 the proxy will resolve and forward each request in the form of
 `localhost:8000?param1=1` 
