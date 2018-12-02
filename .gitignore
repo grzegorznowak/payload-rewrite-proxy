@@ -1,0 +1,4 @@
+.coverage
+.idea
+pyenv
+__pycache__

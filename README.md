@@ -1,5 +1,6 @@
 # Payload Rewrite Proxy
 
+![/coverage-badge](https://github.com/grzegorznowak/payload-rewrite-proxy/blob/master/tests/coverage.svg)
 
 ### use case
 
